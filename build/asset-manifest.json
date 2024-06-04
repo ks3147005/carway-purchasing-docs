@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91b27a0c.css",
+    "main.js": "/static/js/main.1974c89f.js",
+    "static/media/car3.jpg": "/static/media/car3.5e6f9e6ff520215780b0.jpg",
+    "static/media/insta.webp": "/static/media/insta.12a72be7af409ae8dde1.webp",
+    "static/media/hector.png": "/static/media/hector.a5a068b59f4c8f484642.png",
+    "static/media/gallery04.png": "/static/media/gallery04.5d1f40c4e90f8c06cb7d.png",
+    "static/media/car4.jpg": "/static/media/car4.a0cc12f4a03e4a2d9319.jpg",
+    "static/media/gallery01.png": "/static/media/gallery01.a36254627af7ad1bddfc.png",
+    "static/media/gallery03.png": "/static/media/gallery03.2fd4ecb24fd816a40848.png",
+    "static/media/R.png": "/static/media/R.0a9a32a1968dff769680.png",
+    "static/media/car2.jpg": "/static/media/car2.2f554ffdac5358237741.jpg",
+    "static/media/three.png": "/static/media/three.ebf00bb6da8d41da21c2.png",
+    "static/media/car1.jpg": "/static/media/car1.fb21f8fc5b9cbf957c83.jpg",
+    "static/media/car7.jpg": "/static/media/car7.076dbaff6f5bcb81e812.jpg",
+    "static/media/car8.jpg": "/static/media/car8.1d3cc27973533b343ea1.jpg",
+    "static/media/car6.jpg": "/static/media/car6.898a495285d81344f5c9.jpg",
+    "static/media/car5.jpg": "/static/media/car5.cb6f1b106451e3ff5cf2.jpg",
+    "static/media/gallery02.png": "/static/media/gallery02.2b45776d1aebd1ab1e1d.png",
+    "static/media/whatsapp.webp": "/static/media/whatsapp.cded0783eb18b4758034.webp",
+    "static/media/gmail.webp": "/static/media/gmail.8353ead9a89a6a61551b.webp",
+    "static/media/one.png": "/static/media/one.55f951c1bfff3113af7b.png",
+    "static/media/OIP.jpeg": "/static/media/OIP.2d276a701405a55bbbae.jpeg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.c75084c4f67a9e4b0ba3.png",
+    "static/media/hyundai.jpeg": "/static/media/hyundai.8fcf9224f68a8162abf6.jpeg",
+    "static/media/mahindra3.webp": "/static/media/mahindra3.046fc0353b5e8a9d714e.webp",
+    "index.html": "/index.html",
+    "main.91b27a0c.css.map": "/static/css/main.91b27a0c.css.map",
+    "main.1974c89f.js.map": "/static/js/main.1974c89f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91b27a0c.css",
+    "static/js/main.1974c89f.js"
+  ]
+}
